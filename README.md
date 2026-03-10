@@ -1,27 +1,32 @@
 # Gratonite Dev Log
 
 [![Project](https://img.shields.io/badge/project-Gratonite-6d28d9)](https://github.com/CoodayeA/Gratonite)
-[![Status](https://img.shields.io/badge/status-reserved-f59e0b)](https://github.com/Gratonite-Labs/dev-log)
-[![Docs](https://img.shields.io/badge/source%20of%20truth-main%20repo-2563eb)](https://github.com/CoodayeA/Gratonite)
+[![License](https://img.shields.io/badge/license-AGPLv3-blue)](https://github.com/CoodayeA/Gratonite/blob/main/LICENSE)
+[![Source of Truth](https://img.shields.io/badge/source%20of%20truth-monorepo-2563eb)](https://github.com/CoodayeA/Gratonite)
 
-Reserved for public development logs, architecture notes, and project status updates.
+Development log, architecture notes, and project status for [Gratonite](https://github.com/CoodayeA/Gratonite).
 
-This repository is intended to hold project-facing documentation that is useful outside the main code repositories.
+## About
 
-## Current Source Of Truth
+This pointer repo is home to public development updates and architecture documentation for the Gratonite project. For the product roadmap, see [ROADMAP.md](https://github.com/CoodayeA/Gratonite/blob/main/ROADMAP.md) in the main repo.
 
-The current project reference and operational docs live in:
+All active development happens in the **[main monorepo](https://github.com/CoodayeA/Gratonite)**.
 
-- [CoodayeA/Gratonite](https://github.com/CoodayeA/Gratonite)
-- `docs/`
+## Scope
 
-## Intended Scope
+- Development logs and status updates
+- Architecture decisions and technical notes
+- Release summaries and milestone recaps
+- Documentation that lives outside the main codebase
 
-- Development logs
-- Architecture notes
-- Public project status updates
-- Release or roadmap summaries
+## Key Links
 
-## Notes
+| Resource | Link |
+|----------|------|
+| Roadmap | [ROADMAP.md](https://github.com/CoodayeA/Gratonite/blob/main/ROADMAP.md) |
+| Contributing Guide | [CONTRIBUTING.md](https://github.com/CoodayeA/Gratonite/blob/main/CONTRIBUTING.md) |
+| Main Repo | [CoodayeA/Gratonite](https://github.com/CoodayeA/Gratonite) |
 
-This repo is intentionally empty until that documentation is split from the main project in a way that stays accurate.
+## License
+
+[AGPLv3](https://github.com/CoodayeA/Gratonite/blob/main/LICENSE)
